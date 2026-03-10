@@ -35,7 +35,9 @@ Credit card fraud poses a significant business risk to financial institutions by
 
 ### 2.3 Project Scope
 
-*to be done later*
+#### Work Breakdown Structure
+
+![Works Breakdown Structure](images/WBS_Credit.png)
 
 
 ### 2.4 Milestones
