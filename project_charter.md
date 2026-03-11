@@ -43,44 +43,66 @@ Credit card fraud poses a significant business risk to financial institutions by
 ### 2.4 Milestones
 *List major project milestones and their target completion dates.*
 
-1. **Project Initiation and Planning Completed**: Project scope, objectives, stakeholders, risks, and technical approach are formally defined and approved.
+**Project Milestones**
 
-2. **Data Acquisition Completed**: Historical credit card transaction data, including both legitimate and fraudulent records, is collected, validated, and secured for analysis.
+1. **Project Charter Approved**  
+   Stakeholders formally approve the project charter, authorizing the project to proceed.
 
-3. **Data Preprocessing and Feature Engineering Completed**: Data cleaning, normalization, feature engineering, and class imbalance handling are implemented using Spark-based pipelines.
+2. **Requirements and Scope Baseline Established**  
+   Project requirements, scope boundaries, and success criteria are reviewed and approved by stakeholders.
 
-4. **Baseline Supervised Models Developed and Evaluated**: Initial supervised machine learning models (e.g., logistic regression and decision trees) are trained and evaluated using appropriate performance metrics.
+3. **Dataset Acquisition Approved**  
+   Required historical credit card transaction dataset is obtained and validated for use in the project.
 
-5. **Advanced and Anomaly Detection Models Implemented**: Anomaly detection techniques, such as isolation forests and one-class support vector machines, are developed and assessed for fraud detection effectiveness.
+4. **Data Preparation Phase Completed**  
+   Data cleaning, preprocessing, and feature engineering steps are finalized and ready for model development.
 
-6. **Model Optimization and Final Selection Completed**: Model hyperparameters are fine-tuned, and the best-performing model is selected based on agreed evaluation criteria.
+5. **Initial Model Training Completed**  
+   Baseline machine learning models are successfully trained and evaluated.
 
-7. **Real-Time Fraud Detection System Integrated**: The selected model is integrated into a real-time transaction processing system for live fraud evaluation.
+6. **Model Selection Decision Approved**  
+   Stakeholders review model evaluation results and approve the selected model for system integration.
 
-8. **Final Testing, Documentation, and Project Closure**: System testing, documentation, stakeholder review, and formal project closure activities are completed.
+7. **Fraud Detection System Prototype Ready for Testing**  
+   The selected model is integrated into a working prototype capable of evaluating transaction data.
+
+8. **User Acceptance Testing Completed**  
+   Stakeholders validate the system prototype and confirm that it meets the project requirements.
+
+9. **Project Closure Approved**  
+   Final documentation is accepted and the project is formally closed.
 
 ### 2.5 Deliverables
 *Identify the tangible outputs the project will produce.*
 
-1. **Approved Project Charter**: A formally approved document defining project scope, objectives, milestones, risks, and stakeholder responsibilities.
+**Project Deliverables**
 
-2. **Preprocessed and Validated Transaction Dataset**: A cleaned and normalized dataset with documented preprocessing steps and data quality checks.
+1. **Project Charter Document**  
+   A formally approved charter defining the project objectives, scope, stakeholders, constraints, risks, milestones, and success criteria.
 
-3. **Data Processing and Feature Engineering Pipeline**: A reusable Spark-based pipeline for data preparation, transformation, and imbalance handling.
+2. **Validated Credit Card Transaction Dataset**  
+   A curated dataset containing historical credit card transactions, including both legitimate and fraudulent cases, accompanied by a data description report.
 
-4. **Baseline Machine Learning Models**: Trained supervised models with documented architectures, training procedures, and performance results.
+3. **Data Preparation Pipeline**  
+   A documented Spark-based pipeline that performs data cleaning, normalization, feature engineering, and class imbalance handling.
 
-5. **Anomaly Detection Model Implementations**: Implemented anomaly detection models that complement supervised fraud detection approaches.
+4. **Baseline Machine Learning Model Package**  
+   Implemented and trained baseline models (e.g., logistic regression and decision trees) including training scripts and performance metrics.
 
-6. **Model Evaluation and Comparison Report**: A detailed report comparing all models using metrics such as precision, recall, F1-score, and ROC-AUC.
+5. **Model Evaluation Report**  
+   A formal report comparing candidate models using evaluation metrics such as precision, recall, F1-score, and ROC-AUC.
 
-7. **Optimized Final Fraud Detection Model**: The fully trained and tuned model selected for deployment in the production system.
+6. **Final Fraud Detection Model**  
+   A trained and optimized machine learning model selected for deployment based on agreed evaluation criteria.
 
-8. **Real-Time Fraud Detection System Prototype**: A functional prototype capable of evaluating incoming transactions for potential fraud in near real time.
+7. **Fraud Detection System Prototype**  
+   A working prototype capable of analyzing incoming transaction data and identifying potentially fraudulent transactions.
 
-9. **Technical Documentation and User Guide**: Documentation describing system architecture, model design, deployment steps, and maintenance procedures.
+8. **System Architecture and Technical Documentation**  
+   Documentation describing the system architecture, data pipeline, model deployment process, and maintenance guidelines.
 
-10. **Final Project Report and Presentation**: A comprehensive summary of project outcomes, results, and recommendations for future improvements.
+9. **Final Project Report**  
+   A comprehensive report summarizing the project methodology, results, system performance, and recommendations for future improvements.
 
 ### 2.6 Project Cost Estimate
 
