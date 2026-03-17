@@ -111,10 +111,8 @@ Credit card fraud poses a significant business risk to financial institutions by
 *to be done later*
 
 
-### 2.7 Dependencies
-*List internal and external dependencies that may impact the project schedule or success.*
-
-*to be done later*
+### 2.7 Gantt Chart
+![Gantt Chart](images/Credit_Detection.png)
 
 ### 2.8 Project Risks, Assumptions, and Constraints
 
