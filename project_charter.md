@@ -106,9 +106,51 @@ Credit card fraud poses a significant business risk to financial institutions by
 
 ### 2.6 Project Cost Estimate
 
-*Provide a high-level cost estimate for the project.*
+### 2.6.1 Personnel Cost
 
-*to be done later*
+| **Role**            | **Daily Rate** | **Allocation (%)** | **Sprint Burn Rate** |
+|---------------------|----------------|---------------------|---------------|
+| Scrum Master        | $300           | 50%                | $1,500.00        |
+| Data Analyst 1      | $100           | 100%               | $1,000.00        |
+| Data Analyst 2      | $100           | 100%               | $1,000.00        |
+| QA Specialist       | $150           | 50%                | $750.00          |
+| **Total**           |                |                    | **$4,250.00**    |
+
+
+#### Total Personnel Cost
+
+| **Description**           | **Value** |
+|---------------------------|-----------|
+| Sprint Burn Rate     | $4,250.00    |
+| Number of Sprints         | 6         |
+| **Total**  | **$25,500.00** |
+
+
+### 2.6.2 Fixed Cost
+
+| **Item**                  | **Qty** | **Cost/Item** | **Total Cost** |
+|---------------------------|---------|---------------|----------------|
+| Computer Hardware         | 2  (units)     | $750.00          | $1,500.00           |
+| Databricks                | 3 (months)       | $80.00           | $240.00            |
+| **Total**     |                |               | **$1,740.00**       |
+
+
+### 2.6.3 Contingency
+
+| **Description**       | **Percentage** | **Personnel _ Fixed costs** | **Total Contingency** |
+|-----------------------|----------------|------------------------|-------------------------|
+| Contingency Funds      | 15%            | $27,240.00               | **$4,086.00**                 |
+
+
+### 2.6.4 Total Estimated Cost
+
+| **Cost Category**              | **Amount**   |
+|--------------------------------|--------------|
+| Total Personnel Cost          | $25,500.00      |
+| Total Fixed Cost              | $1,740.00        |
+| Total Contingency (15%)        | $4,086.00      |
+| **Total Estimated Cost**      | **$31,326.00**  |
+
 
 
 ### 2.7 Gantt Chart
