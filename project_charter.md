@@ -184,19 +184,34 @@ Credit card fraud poses a significant business risk to financial institutions by
 ## 3. Project Organization
 
 
-### 3.1 Project Team Structure
-*Outline the project team and reporting relationships.*
+### 3.1 Stakeholder Register
 
-*to be done later*
+| Name | Position | Int/Ext | Role | Email |
+|------|----------|---------|------|-------|
+| Marcel Jar | Faculty | Internal | Project Sponsor | marcel.jar@senecapolytechnic.ca |
+| Michael O’Connor | Senior Project Manager | Internal | Project Manager | michael.oconnor@northbank.com |
+| Bruce Banner | Scientist | Internal | Data Analyst | bruce.banner@avengers.com |
+| Sarah Mitchell | Head of Retail Banking | Internal | Bank Executive | sarah.mitchell@northbank.com |
+| Ahmed Hassan | Director of Risk Management | Internal | Bank Executive | ahmed.hassan@northbank.com |
+| Tony Stark | CEO | Internal | IT and Security Teams | tony.starks@starkindustries.com |
+| Jason Lee | Fraud Operations Analyst | Internal | Fraud Detection Team | jason.lee@northbank.com |
+| Emily Wong | AML Specialist | External | Regulatory Bodies | emily.wong@osfi-bsif.gc.ca |
+| David Chen | Senior Compliance Officer | External | Regulatory Bodies | david.chen@fintrac.gc.ca |
+| Sophie Dubois | Retail Banking Client | External | Customers | sophie.dubois@gmail.com |
+| Laura Gómez | Customer Representative | External | Customers | laura.gomez@gmail.com |
 
-| Role | Responsibility |
-|-----|----------------|
-|     |                |
+### 3.2 Stakeholder Analysis Matrix
+![Gantt Chart](images/Stakeholder_Matrix.png)
 
-### 3.2 Key Stakeholders
-*Outlines any parts that have an interest in the proejct.*
-
-*to be done later*
+### 3.3 Stakeholder Communications Analysis
+| Information          | Owner              | Audience                                   | Schedule        | Channel     |
+|---------------------|--------------------|---------------------------------------------|-----------------|-------------|
+| Project Status      | Project Manager    | Bank Executives, Data Scientists            | Biweekly        | In Person   |
+| Sprint Review       | Data Scientists    | Project Manager, Project Sponsor            | Biweekly        | In Person   |
+| Modelling Results   | Data Scientists    | Fraud Detection, IT and Security Teams      | Monthly         | MS Teams    |
+| Financial Report    | Project Sponsor    | Project Manager, Bank Executives            | Monthly         | Phone       |
+| Compliance Reports  | Project Manager    | Regulatory Bodies                           | Quarterly       | Email       |
+| Advertisement       | Project Sponsor    | Customers                                  | End of Project  | Email       |
 
 ---
 
