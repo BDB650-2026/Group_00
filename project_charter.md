@@ -129,7 +129,7 @@ Credit card fraud poses a significant business risk to financial institutions by
 |---------------------------|-----------|
 | Sprint Burn Rate     | $4,250.00    |
 | Number of Sprints         | 8         |
-| **Total**  | **$25,500.00** |
+| **Total**  | **$34,000.00** |
 
 
 ### 2.6.2 Fixed Cost
@@ -152,10 +152,10 @@ Credit card fraud poses a significant business risk to financial institutions by
 
 | **Cost Category**              | **Amount**   |
 |--------------------------------|--------------|
-| Total Personnel Cost          | $25,500.00      |
+| Total Personnel Cost          | $34,000.00      |
 | Total Fixed Cost              | $1,740.00        |
 | Total Contingency (15%)        | $4,086.00      |
-| **Total Estimated Cost**      | **$31,326.00**  |
+| **Total Estimated Cost**      | **$39,826.00**  |
 
 
 
