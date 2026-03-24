@@ -145,7 +145,7 @@ Credit card fraud poses a significant business risk to financial institutions by
 
 | **Description**       | **Percentage** | **Personnel _ Fixed costs** | **Total Contingency** |
 |-----------------------|----------------|------------------------|-------------------------|
-| Contingency Funds      | 15%            | $27,240.00               | **$4,086.00**                 |
+| Contingency Funds      | 15%            | $27,240.00               | **$5,361.00**                 |
 
 
 ### 2.6.4 Total Estimated Cost
@@ -154,8 +154,8 @@ Credit card fraud poses a significant business risk to financial institutions by
 |--------------------------------|--------------|
 | Total Personnel Cost          | $34,000.00      |
 | Total Fixed Cost              | $1,740.00        |
-| Total Contingency (15%)        | $4,086.00      |
-| **Total Estimated Cost**      | **$39,826.00**  |
+| Total Contingency (15%)        | $5,361.00      |
+| **Total Estimated Cost**      | **$41,101.00**  |
 
 
 
