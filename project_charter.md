@@ -128,7 +128,7 @@ Credit card fraud poses a significant business risk to financial institutions by
 | **Description**           | **Value** |
 |---------------------------|-----------|
 | Sprint Burn Rate     | $4,250.00    |
-| Number of Sprints         | 6         |
+| Number of Sprints         | 8         |
 | **Total**  | **$25,500.00** |
 
 
@@ -160,7 +160,7 @@ Credit card fraud poses a significant business risk to financial institutions by
 
 
 ### 2.7 Gantt Chart
-![Gantt Chart](images/Credit_Detection.png)
+![Gantt Chart](images/new_Gantt.png)
 
 ### 2.8 Project Risks, Assumptions, and Constraints
 
