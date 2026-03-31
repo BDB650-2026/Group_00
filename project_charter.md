@@ -164,20 +164,17 @@ Credit card fraud poses a significant business risk to financial institutions by
 
 ### 2.8 Project Risks, Assumptions, and Constraints
 
-#### 2.8.1 Risks
-*Identify potential risks and their possible impact.*
+#### Risk Register
 
-*to be done later*
+| **ID** | **Risk Description** | **Likelihood** | **Impact** | **Risk Owner** |
+|------------|---------------------|--------------|----------|------------|
+| **01** | Data quality issues (incomplete, inaccurate, inconsistent data) | High | Medium | Data Engineer |
+| **02** | Non-compliance with data privacy regulations | Medium | High | Compliance Officer |
+| **03** | Model bias leading to incorrect insights and business decisions | Medium | High | Data Scientist |
+| **04** | Security vulnerabilities leading to data breaches | High | High | Security Engineer |
+| **05** | Unclear business requirements causing scope creep | Medium | Medium | Business Analyst |
+| **06** | Unexpected budget overruns due to cloud computing costs | Medium | Medium | Finance Manager | 
 
-#### 2.8.2 Assumptions
-*List assumptions that are being made for planning purposes.*
-
-*to be done later*
-
-#### 2.8.3 Constraints
-*Identify limitations that restrict the project (e.g., budget, schedule, resources).*
-
-*to be done later*
 
 ---
 
