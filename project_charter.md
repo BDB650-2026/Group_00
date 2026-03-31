@@ -164,7 +164,7 @@ Credit card fraud poses a significant business risk to financial institutions by
 
 ### 2.8 Project Risks, Assumptions, and Constraints
 
-#### Risk Register
+#### 2.8.1 Risk Register
 
 | **ID** | **Risk Description** | **Likelihood** | **Impact** | **Risk Owner** |
 |------------|---------------------|--------------|----------|------------|
@@ -175,6 +175,9 @@ Credit card fraud poses a significant business risk to financial institutions by
 | **05** | Unclear business requirements causing scope creep | Medium | Medium | Business Analyst |
 | **06** | Unexpected budget overruns due to cloud computing costs | Medium | Medium | Finance Manager | 
 
+
+#### 2.8.2 Probability/Impact Matrix
+![Probability Impact Matrix](images/probability_impact.png)
 
 ---
 
